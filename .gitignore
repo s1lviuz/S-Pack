@@ -16,6 +16,8 @@
 /saves
 /schematics
 /paintings
+/backups
+/patchouli_books
 .curseclient
 /*.txt
 /*.json

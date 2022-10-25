@@ -11,3 +11,16 @@ StartupEvents.registry('block', event => {
 	// Register new blocks here
 	// event.create('example_block').material('wood').hardness(1.0).displayName('Example Block')
 })
+
+ItemEvents.modification(event => {
+	let itemsStackChangeTo64 = [
+		'minecraft:ender_pearl',
+		'minecraft:egg',
+		'minecraft:snowball'
+	]
+	itemsStackChangeTo64.forEach(item => {
+		event.modify(item, item => {
+			item.maxStackSize = 64
+		  })
+	})
+})
