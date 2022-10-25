@@ -12,6 +12,11 @@ As mudanças em jogo são feitas atraves do mod KubeJS 6 que permite criar scrip
 
 Outras modificações são feitas pelo formato de arquivo para arquivos de configuração ".toml" geradas pelos proprios mods.
 
+## Versões
+
+- Minecraft - 1.19.2
+- MinecraftForge - 43.1.47
+
 ## Documentações
 
 - <a href="https://mods.latvian.dev/books/kubejs-6-1192/">KubeJS 6</a>
