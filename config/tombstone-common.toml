@@ -155,14 +155,12 @@
 	#Chance on 1000 that a soul appears on a grave [0..1000|default:100]
 	#Range: 0 ~ 1000
 	chance_soul = 100
-	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:40]
+	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:30]
 	#Range: 0 ~ 100
 	chance_pray_reward = 40
 
 #Allows to customize or disable the enchantments
 [enchantments]
-	#Shadow Step is disabled for 10 seconds by opening a chest [false/true|default:true]
-	nerf_shadow_step_open_chest = true
 	#The wearer is also affected by the effect if his alignment is not bad [false/true|default:true]
 	nerf_plague_bringer = true
 	#Maximum duration of stolen effects in minutes [1..MAX|default:60]
