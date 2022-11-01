@@ -1,0 +1,5 @@
+minecraft:canyon
+minecraft:cave
+minecraft:cave_extra_underground
+assemblylinemachines:chaos_plane_carver
+minecraft:nether_cave

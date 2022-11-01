@@ -18,6 +18,8 @@
 /paintings
 /backups
 /patchouli_books
+/skyblock_exports
+/quests_structures
 .curseclient
 /*.txt
 /*.json
