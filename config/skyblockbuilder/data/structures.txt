@@ -42,4 +42,3 @@ minecraft:village_snowy
 minecraft:village_taiga
 byg:village_tropical
 byg:volcano
-supplementaries:way_sign

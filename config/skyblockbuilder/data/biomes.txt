@@ -14,7 +14,6 @@ byg:basalt_barrera
 minecraft:basalt_deltas
 byg:bayou
 minecraft:beach
-dimdungeons:biome_dungeon
 minecraft:birch_forest
 byg:black_forest
 byg:borealis_grove
@@ -27,9 +26,6 @@ byg:cika_woods
 byg:coconino_meadow
 minecraft:cold_ocean
 byg:coniferous_forest
-assemblylinemachines:corrupt_desert
-assemblylinemachines:corrupt_forest
-assemblylinemachines:corrupt_plains
 byg:crag_gardens
 minecraft:crimson_forest
 byg:crimson_gardens

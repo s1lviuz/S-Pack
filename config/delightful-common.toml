@@ -113,13 +113,13 @@
 	pumpkin_pie_overhaul = true
 
 [Generation]
-	#Chance of generating clusters. Smaller value = more frequent (once every ...).
+	#Chance of generating clusters. Smaller value = more frequent (once every ...). To disable, set the item Salmonberries to false above.
 	#Range: > 0
 	chance_wild_salmonberries = 30
-	#Chance of generating clusters. Smaller value = more frequent (once every ...).
+	#Chance of generating clusters. Smaller value = more frequent (once every ...). To disable, set the item Mini Melon to false above.
 	#Range: > 0
 	chance_mini_melon = 30
-	#Chance of generating clusters. Smaller value = more frequent (once every ...).
+	#Chance of generating clusters. Smaller value = more frequent (once every ...). To disable, set the item Cantaloupe to false above.
 	#Range: > 0
 	chance_cantaloupe = 50
 

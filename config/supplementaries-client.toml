@@ -153,6 +153,8 @@
 	compass_right_click = false
 	#Renders an enchantment glint on placeable enchanted books
 	placeable_books_glint = false
+	#Enables banner pattern tooltip image preview
+	banner_pattern_tooltip = true
 
 [items]
 
