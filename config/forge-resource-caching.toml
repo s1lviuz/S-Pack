@@ -7,4 +7,3 @@ indexVanillaPackCachesOnThread = false
 #
 # Set this to false to disable the resource cache. This will cause the game to scan the resource packs everytime it needs a list of resources.
 cacheResources = true
-

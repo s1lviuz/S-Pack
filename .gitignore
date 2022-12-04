@@ -1,13 +1,22 @@
-#Dev
+### Develop ###
+
+#KubeJS
 /kubejs/example_scripts
 /kubejs/assets/example_textures
 /kubejs/exported
 /kubejs/probe
 /kubejs/README.txt
 
-#Client
+#NodeJS
+node_modules
+package-lock.json
+
+#VS Code
+.vscode
+
+
+### Client ###
 /crash-reports
-/downloads
 /journeymap
 /local
 /logs
@@ -15,15 +24,17 @@
 /resourcepacks
 /saves
 /schematics
-/paintings
 /backups
-/patchouli_books
-/skyblock_exports
-/quests_structures
+/localconfigs
+
+# Files
 .curseclient
 /*.txt
-/*.json
 /*.toml
 /*.properties
 /config/*.bak
 /config/jei/world
+
+# JSON Files
+/*nce.json
+/*cache.json
