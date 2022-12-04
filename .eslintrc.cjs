@@ -7,7 +7,8 @@ module.exports = {
   extends: [
     'standard',
     'plugin:jsonc/recommended-with-json5',
-    'plugin:json/recommended'
+    'plugin:json/recommended',
+    'plugin:toml/standard'
   ],
   overrides: [
   ],
