@@ -13,7 +13,7 @@ const modNameList = installedAddons
 const data = stripIndent`
 # Lista de mods atuais do projeto:
 
-${modNameList.map((mod) => `[${mod.name}](${mod.webSiteURL})`).join(`
+${modNameList.map((mod, idx) => `${idx + 1}. [${mod.name}](${mod.webSiteURL})`).join(`
 
 `)}
 `
