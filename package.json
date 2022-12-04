@@ -1,0 +1,36 @@
+{
+  "name": "s-pack",
+  "version": "1.0.0",
+  "description": "A Minecraft Modpack",
+  "main": "none",
+  "type": "module",
+  "scripts": {
+    "test": "none",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s1lviuz/S-Pack.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "Mod",
+    "CurseForge"
+  ],
+  "author": "S1lviuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s1lviuz/S-Pack/issues"
+  },
+  "homepage": "https://github.com/s1lviuz/S-Pack#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-jsonc": "^2.5.0",
+    "eslint-plugin-n": "^15.5.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "husky": "^8.0.2"
+  }
+}

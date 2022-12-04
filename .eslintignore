@@ -1,0 +1,16 @@
+### Develop ###
+node_modules
+dist
+
+
+### Client ###
+/crash-reports
+/journeymap
+/local
+/logs
+/mods
+/resourcepacks
+/saves
+/schematics
+/backups
+/localconfigs
